@@ -1,6 +1,6 @@
 /*Find the day of week, based on a reference date */
 
-//We know that 01/01/1970 is Thursday
+//We knowthat 01/01/1970 is Thursday
 #include<stdio.h>
 int months[]={31,28,31,30,31,30,31,31,30,31,30,31};
 char* days[]={"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"};
